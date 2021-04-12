@@ -5,3 +5,9 @@ def suma1():
     print("El primer numero fue: ", a)
     print("El segundo numero fue: ", b)
     print("La respuesta es", respuesta)
+
+def main():
+    suma1()
+    print("Fin del Programa")
+
+main()
